@@ -1,0 +1,357 @@
+Savant3_Error: Array
+(
+    [code] => ERR_TEMPLATE
+    [info] => Array
+        (
+            [template] => template_generate.tpl.php
+        )
+
+    [level] => 256
+    [trace] => Array
+        (
+            [0] => Array
+                (
+                    [file] => D:\xammp\xampp\htdocs\democodes\SavantTemplate\Savant3.php
+                    [line] => 1298
+                    [function] => __construct
+                    [class] => Savant3_Error
+                    [object] => Savant3_Error Object
+                        (
+                            [code] => ERR_TEMPLATE
+                            [info] => Array
+                                (
+                                    [template] => template_generate.tpl.php
+                                )
+
+                            [level] => 256
+                            [trace] => Array
+ *RECURSION*
+                        )
+
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [code] => ERR_TEMPLATE
+                                    [info] => Array
+                                        (
+                                            [template] => template_generate.tpl.php
+                                        )
+
+                                    [level] => 256
+                                    [trace] => 1
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => D:\xammp\xampp\htdocs\democodes\SavantTemplate\Savant3.php
+                    [line] => 1121
+                    [function] => error
+                    [class] => Savant3
+                    [object] => Savant3 Object
+                        (
+                            [__config:protected] => Array
+                                (
+                                    [template_path] => Array
+                                        (
+                                            [0] => .\
+                                        )
+
+                                    [resource_path] => Array
+                                        (
+                                            [0] => D:\xammp\xampp\htdocs\democodes\SavantTemplate/Savant3/resources/\
+                                        )
+
+                                    [error_text] => 
+
+template error, examine fetch() result
+
+
+                                    [exceptions] => 
+                                    [autoload] => 
+                                    [compiler] => 
+                                    [filters] => Array
+                                        (
+                                        )
+
+                                    [plugins] => Array
+                                        (
+                                        )
+
+                                    [template] => 
+                                    [plugin_conf] => Array
+                                        (
+                                        )
+
+                                    [extract] => 
+                                    [fetch] => 
+                                    [escape] => Array
+                                        (
+                                            [0] => htmlspecialchars
+                                        )
+
+                                )
+
+                            [datas] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => First Name
+                                            [1] => Last Name
+                                            [2] => DOB
+                                            [3] => Address
+                                            [4] => City
+                                            [5] => State
+                                            [6] => Country
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => First Name
+                                            [1] => Last Name
+                                            [2] => DOB
+                                            [3] => Address
+                                            [4] => City
+                                            [5] => State
+                                            [6] => Country
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => First Name
+                                            [1] => Last Name
+                                            [2] => DOB
+                                            [3] => Address
+                                            [4] => City
+                                            [5] => State
+                                            [6] => Country
+
+                                        )
+
+                                )
+
+                        )
+
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => ERR_TEMPLATE
+                            [1] => Array
+                                (
+                                    [template] => template_generate.tpl.php
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => D:\xammp\xampp\htdocs\democodes\SavantTemplate\Savant3.php
+                    [line] => 1037
+                    [function] => template
+                    [class] => Savant3
+                    [object] => Savant3 Object
+                        (
+                            [__config:protected] => Array
+                                (
+                                    [template_path] => Array
+                                        (
+                                            [0] => .\
+                                        )
+
+                                    [resource_path] => Array
+                                        (
+                                            [0] => D:\xammp\xampp\htdocs\democodes\SavantTemplate/Savant3/resources/\
+                                        )
+
+                                    [error_text] => 
+
+template error, examine fetch() result
+
+
+                                    [exceptions] => 
+                                    [autoload] => 
+                                    [compiler] => 
+                                    [filters] => Array
+                                        (
+                                        )
+
+                                    [plugins] => Array
+                                        (
+                                        )
+
+                                    [template] => 
+                                    [plugin_conf] => Array
+                                        (
+                                        )
+
+                                    [extract] => 
+                                    [fetch] => 
+                                    [escape] => Array
+                                        (
+                                            [0] => htmlspecialchars
+                                        )
+
+                                )
+
+                            [datas] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => First Name
+                                            [1] => Last Name
+                                            [2] => DOB
+                                            [3] => Address
+                                            [4] => City
+                                            [5] => State
+                                            [6] => Country
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => First Name
+                                            [1] => Last Name
+                                            [2] => DOB
+                                            [3] => Address
+                                            [4] => City
+                                            [5] => State
+                                            [6] => Country
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => First Name
+                                            [1] => Last Name
+                                            [2] => DOB
+                                            [3] => Address
+                                            [4] => City
+                                            [5] => State
+                                            [6] => Country
+
+                                        )
+
+                                )
+
+                        )
+
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => template_generate.tpl.php
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => D:\xammp\xampp\htdocs\democodes\SavantTemplate\index.php
+                    [line] => 14
+                    [function] => fetch
+                    [class] => Savant3
+                    [object] => Savant3 Object
+                        (
+                            [__config:protected] => Array
+                                (
+                                    [template_path] => Array
+                                        (
+                                            [0] => .\
+                                        )
+
+                                    [resource_path] => Array
+                                        (
+                                            [0] => D:\xammp\xampp\htdocs\democodes\SavantTemplate/Savant3/resources/\
+                                        )
+
+                                    [error_text] => 
+
+template error, examine fetch() result
+
+
+                                    [exceptions] => 
+                                    [autoload] => 
+                                    [compiler] => 
+                                    [filters] => Array
+                                        (
+                                        )
+
+                                    [plugins] => Array
+                                        (
+                                        )
+
+                                    [template] => 
+                                    [plugin_conf] => Array
+                                        (
+                                        )
+
+                                    [extract] => 
+                                    [fetch] => 
+                                    [escape] => Array
+                                        (
+                                            [0] => htmlspecialchars
+                                        )
+
+                                )
+
+                            [datas] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => First Name
+                                            [1] => Last Name
+                                            [2] => DOB
+                                            [3] => Address
+                                            [4] => City
+                                            [5] => State
+                                            [6] => Country
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => First Name
+                                            [1] => Last Name
+                                            [2] => DOB
+                                            [3] => Address
+                                            [4] => City
+                                            [5] => State
+                                            [6] => Country
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => First Name
+                                            [1] => Last Name
+                                            [2] => DOB
+                                            [3] => Address
+                                            [4] => City
+                                            [5] => State
+                                            [6] => Country
+
+                                        )
+
+                                )
+
+                        )
+
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => template_generate.tpl.php
+                        )
+
+                )
+
+        )
+
+)
